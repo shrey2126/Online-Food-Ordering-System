@@ -19,7 +19,7 @@ Text files (users.txt and order_history.txt) for storing user data and order h
 ## Library Installation:
 - matplotlib
 ```bash
-pip install matplotlib matplotlib
+pip install matplotlib 
 ```
 ## Essential Importing:
 ```bash
