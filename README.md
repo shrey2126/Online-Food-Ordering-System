@@ -6,20 +6,14 @@
 
 ## Technology Stack:
 - Programming Language: Python
-- Libraries Used:
-<br>
-`matplotlib`:  For visualizations (pie chart, bar chart).
-<br>
-`datetime`:  For order date and time.
-<br>
-`random`:  For generating order IDs.
-<br>
+- Libraries Used:  
+`matplotlib`:  For visualizations (pie chart, bar chart).  
+`datetime`:  For order date and time.  
+`random`:  For generating order IDs.  
 `os`:  For file handling (users and order history).
-<br>
 `re`:  For password validation.
-<br>
-- Data Storage:
-<br>
+
+- Data Storage:  
 Text files (users.txt and order_history.txt) for storing user data and order history.
 
 ## Library Installation:
@@ -34,26 +28,20 @@ import numpy as np
 from datetime import datetime
 import random
 import string
-import time
 import re
 import os
 ```
 
 ## How it Works??
-- `User Registration & Login`:
-<br>
--> Register with a username and strong password.
-<br>
+- `User Registration & Login`:  
+-> Register with a username and strong password.  
 -> Log in to access the system.
-- `Menu & Ordering`:
-<br>
+
+- `Menu & Ordering`:  
 -> Browse the menu, search for items, and add them to the cart.
-<br>
-- `Checkout`:
-<br>
+
+- `Checkout`:  
 -> Apply discounts, choose a payment method, and generate a bill.
-- `Order History`:
-<br>
+
+- `Order History`:  
 -> View past orders and visualize spending patterns.
-
-
