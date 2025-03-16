@@ -10,7 +10,7 @@
 `matplotlib`:  For visualizations (pie chart, bar chart).  
 `datetime`:  For order date and time.  
 `random`:  For generating order IDs.  
-`os`:  For file handling (users and order history).
+`os`:  For file handling (users and order history).<br>
 `re`:  For password validation.
 
 - Data Storage:  
