@@ -1,0 +1,10 @@
+--- Bill ---
+Order ID: gwKRnrxj_2025-02-26
+Date: 2025-02-28 10:10:45
+
+Items:
+Steamed Jasmine Rice: 3 x ₹219.00 = ₹657.00
+Iced Lemonade: 3 x ₹249.00 = ₹747.00
+
+Discount Applied: SAVE10 (-₹140.40)
+Total: ₹1123.20

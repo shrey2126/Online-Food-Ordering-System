@@ -1,0 +1,9 @@
+--- Bill ---
+Order ID: EkUj2i2s_2025-02-27
+Date: 2025-02-27 19:23:20
+
+Items:
+Vegan Burger with Fries: 900 x ₹899.00 = ₹809100.00
+
+Discount Applied: SAVE10 (-₹80910.00)
+Total: ₹647280.00

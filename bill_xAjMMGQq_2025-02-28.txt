@@ -1,0 +1,11 @@
+--- Bill ---
+Order ID: xAjMMGQq_2025-02-27
+Date: 2025-02-28 10:34:17
+
+Items:
+Paneer Combo Meal: 4 x ₹1499.00 = ₹5996.00
+Greek Salad: 4 x ₹749.00 = ₹2996.00
+Chickpea curry: 2 x ₹999.00 = ₹1998.00
+
+Discount Applied: SAVE20 (-₹2198.00)
+Total: ₹6594.00

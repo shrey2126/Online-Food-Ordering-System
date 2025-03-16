@@ -1,0 +1,10 @@
+--- Bill ---
+Order ID: VHy5ruOD_2025-02-28
+Date: 2025-02-28 11:16:28
+
+Items:
+Vegetable Spring rolls: 4 x ₹499.00 = ₹1996.00
+Greek Salad: 3 x ₹749.00 = ₹2247.00
+
+Discount Applied: LOYALTY50 (-₹0.00)
+Total: ₹4243.00

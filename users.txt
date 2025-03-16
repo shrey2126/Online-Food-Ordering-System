@@ -1,0 +1,4 @@
+john_doe|Password123|ABC12345|10
+jane_smith|SecurePass456|XYZ67890|5
+Shrey|Shrey@27|pA1UpWLy|536
+JD|Deep@7610|njEWM9Pa_2025-02-27|7281

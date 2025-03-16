@@ -1,0 +1,9 @@
+--- Bill ---
+Order ID: 6gyGPJVl_2025-02-28
+Date: 2025-02-28 10:15:17
+
+Items:
+Garlic Naan: 2 x ₹249.00 = ₹498.00
+
+Discount Applied: SAVE20 (-₹99.60)
+Total: ₹298.80

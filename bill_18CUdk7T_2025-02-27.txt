@@ -1,0 +1,8 @@
+--- Bill ---
+Order ID: 18CUdk7T_2025-02-28
+Date: 2025-02-27 18:20:21
+
+Items:
+Sweet Potato Fries: 3 x ₹329.00 = ₹987.00
+
+Total: ₹987.00
